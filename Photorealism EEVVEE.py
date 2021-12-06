@@ -189,22 +189,11 @@ class AboutPanel(bpy.types.Panel):
         row = box.row
         box.label(text="Developed by:",icon = "INFO")
         row = box.row
-        box.label(text="Author : Yasiru Basnayake", icon = "GREASEPENCIL")
+        box.label(text="Author : Lithika Senavirathne", icon = "GREASEPENCIL")
         row = box.row
-        box.label(text="Company : YASIRU FX (individual)",icon = "GROUP")
+        box.label(text="Company : methsilusenavirathne (individual)",icon = "GROUP")
         row = box.row
         box.label(text="Country : Sri Lanka",icon = "KEYFRAME_HLT")
-        row = box.row
-        box.label(text="Email : yasirunipunbasnayake2@gmail.com",icon = "KEYFRAME_HLT")
-        row = box.row
-        box.label(text="Facebook : Yasiru Basnayake",icon = "KEYFRAME_HLT")
-        row = box.row
-        box.label(text="YouTube : yasiru fx",icon = "KEYFRAME_HLT")
-        row = box.row
-        box.label(text="Instagram : Yasiru_Baxnayake",icon = "KEYFRAME_HLT")
-        row = box.row
-        row = box.row
-        box.label(text="Appreciate your comments for development.",icon = "LIGHT")
         
 
 def register():
