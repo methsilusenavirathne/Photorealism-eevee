@@ -3,7 +3,7 @@ bl_info = {
     "author": "Lithika Senavirathne",
     "version": (1, 0),
     "blender": (2, 80, 0),
-    "location": "Render > Real EEVVEE",
+    "location": "Render > Photorealism EEVVEE",
     "description": "Photorealism for Eevee render engine",
     "warning": "",
     "doc_url": "https://github.com/methsilusenavirathne",
